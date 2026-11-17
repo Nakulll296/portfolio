@@ -1,7 +1,7 @@
 export const profile = {
   name: 'Nakul N',
   role: 'Software Engineer — AI/ML & Full-Stack',
-  location: 'Mysuru, Karnataka, India',
+  location: 'Bangalore, Karnataka, India',
   email: 'nakuljb24@gmail.com',
   phone: '+91 9480266834',
   // Replace with your exact profile URLs
